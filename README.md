@@ -9,7 +9,8 @@ The Achieve SQL Mastery repository is your go-to resource for mastering SQL from
 This repository provides a structured roadmap and a curated collection of resources to help you become proficient in SQL. From basic queries to complex database management tasks, you'll learn it all in a step-by-step manner.
 
 ## SOURCE
-YOUTUBE🎥:Access the video here
+YOUTUBE🎥:[Access the video here](https://www.youtube.com/watch?v=KBDSJU3cGkc&t=16468s)
+
 
 
 
