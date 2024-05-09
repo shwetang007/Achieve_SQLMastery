@@ -11,6 +11,8 @@ This repository provides a structured roadmap and a curated collection of resour
 ## SOURCE
 YOUTUBE🎥:[Access the video here](https://www.youtube.com/watch?v=KBDSJU3cGkc&t=16468s)
 
+MY REPOSITORY🗃️:[Access the Repository Here](https://github.com/shwetang007/Achieve_SQLMastery)
+
 
 
 
